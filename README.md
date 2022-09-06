@@ -38,4 +38,5 @@ __Some instances in 11 categories__
   <img width="500" src="https://github.com/kuku-sichuan/ComparisonDetector/blob/master/images/README/categories.png" />
 </p>
 
-The dataset is available on Google driver [here](https://drive.google.com/drive/folders/1YzPkv6rHLNQXA6QmEUoCl9mWV9fQFsik).
+The dataset is available at [here](https://pan.baidu.com/s/1ynvNKBmf-s9GaUkTEUvTwA?pwd=fphm).
+There are some error-annotated bounding boxes with 1 width or height which does not contain any cell. Please remove them before training or testing.
